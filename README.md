@@ -1,16 +1,37 @@
 # Ubi
+Ubi is a Discord bot that is maintained by a lot of awesome people!.
 
-#### A bot for discord created and mantained by a lot of cool people
+#### How to add Ubi to your Discord server:
+Ubi has not been released to the public yet, keep in mind that we may be looking for super,swaggy beta testers! ;)
+#### Commands
+Below this is a list of commands for the Discord bot, Ubi. The prefix for a command is ";".
+#### Standard commands:
+;flipcoin - flips a coin
+;comic - uploads a comic from xkcd
+;meme - uploads a meme from memes.com
+;scrabble - starts a game of scrabble
+;poll <text> - starts a basic yes/no poll
+;define <word> - grabs the definition of any word
+;8ball <question> - inquires the all seeing magic 8ball
+;calc <expression> - evaluates any arithmetic expression
+;clear <amount of messages> - removes the amount of messages specified from a channel
 
-#### Current Commands
+#### Music commands:
+;music - initializes music and joins the channel you're in
+;music add <url> - replace (url) with youtube link, adds link to quene
+;music skip - adds vote to skip current song (2 votes = skip)
+;music playlist - shows all songs in the playlist quene
+;music move - moves bot to the voice channel you're in
+;music pause - pauses the current song
 
-###### 1. $flipcoin ~ flips a coin
-###### 2. $comic ~ uploads a comic from xkcd
-###### 3. $meme ~ uploads a meme from memes.com
-###### 4. $calc (problem) ~ calculates a math problem in pemdas
-###### 5. $help ~ loads help page
-##### Plus Plus commands
-###### Plus Plus is a system built within ubi to award teammates with "points"
-###### 1. $stats ~ gets a leaderboard of plus plus scores
-###### 2. $++(user) ~ adds a point to a specific user (don't put a space between the last + and the user's name)
-###### 3. $--(user) ~ removes a point from a specific user (don't put a space between the last - and the user's name)
+#### Plus Plus commands:
+
+;stats - gets a leaderboard of plus plus scores
+;++<user> - adds a point to a specific user (don't put a space between the last + and the users name)
+;--<user> - removes a point from a specific user (don't put a space between the last - and the users name)
+
+
+
+That's all for now!
+See ya!
+- Laphatize and rest of team 
